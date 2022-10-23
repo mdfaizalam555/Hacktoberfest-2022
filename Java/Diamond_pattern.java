@@ -46,7 +46,7 @@ public class GFG {
             
             while (n++ <= number - m) {
  
-                System.out.print(" ");
+                System.out.print("*");
             }
  
             n = 1;
